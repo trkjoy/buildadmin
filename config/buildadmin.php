@@ -21,7 +21,7 @@ return [
         // 默认驱动方式
         'default' => 'mysql',
         // 加密key
-        'key'     => 'tcbDgmqLVzuAdNH39o0QnhOisvSCFZ7I',
+        'key'     => 's70qQCjJIeEfklOxmuPDWcKUX96iZ3V1',
         // 加密方式
         'algo'    => 'ripemd160',
         // 驱动
@@ -39,7 +39,7 @@ return [
                 'type'       => 'Redis',
                 'host'       => '127.0.0.1',
                 'port'       => 6379,
-                'password'   => '',
+                'password'   => 'trkjoy',
                 'select'     => false,
                 'timeout'    => 0,
                 'expire'     => 0,
